@@ -109,5 +109,7 @@ public class Main {
 
         System.out.println("Маша теперь получает " + newSalaryMasha + " рублей. Годовой доход вырос на " + diffMasha + " рублей");
         System.out.println("Денис теперь получает " + newSalaryDenis + " рублей. Годовой доход вырос на " + diffDenis + " рублей");
-    }}
+        System.out.println("Кристина теперь получает " + newSalaryKristina + " рублей. Годовой доход вырос на " + diffKristina + " рублей");
+    }
+}
 
